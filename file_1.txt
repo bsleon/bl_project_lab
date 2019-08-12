@@ -2,3 +2,6 @@ a line of text
 this
 is
 text
+1
+2
+3
